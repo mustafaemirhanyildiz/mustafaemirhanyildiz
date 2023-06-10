@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Emirhan Yıldız</h1>
 <h3 align="center">A passionate web developer from Turkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaemirhanyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaemirhanyildiz" /> </p>
-
 - 🔭 I’m currently working on [IntelliGrade](https://intelligrade.azurewebsites.net/Base)
 
 - 🌱 I’m currently learning **.NET, React, Tailwind**
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mustafa-emirhan-yildiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-emirhan-yildiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mustafa-emirhan-yildiz-b1265a21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-emirhan-yildiz-b1265a21b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mustafaemirhanyildiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mustafaemirhanyildiz" height="30" width="40" /></a>
 </p>
 
