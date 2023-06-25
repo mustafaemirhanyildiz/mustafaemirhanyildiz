@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [IntelliGrade](https://intelligrade.azurewebsites.net/Base)
 
-- 🌱 I’m currently learning **.NET, React, Tailwind**
+- 🌱 I’m currently learning **.NET, React**
 
 - 👨‍💻 All of my projects are available at [https://mustafaemirhanyildiz.github.io/](https://mustafaemirhanyildiz.github.io/)
 
