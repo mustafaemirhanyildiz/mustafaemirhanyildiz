@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [IntelliGrade](https://intelligrade.azurewebsites.net/Base)
 
-- 🌱 I’m currently learning **.NET, React, Tailwind**
-
 - 👨‍💻 All of my projects are available at [https://mustafaemirhanyildiz.github.io/](https://mustafaemirhanyildiz.github.io/)
 
 - 📝 I regularly sharing my solutions on [https://leetcode.com/mustafaemirhanyildiz/](https://leetcode.com/mustafaemirhanyildiz/)
