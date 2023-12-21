@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Emirhan Yıldız</h1>
 <h3 align="center">A passionate web developer from Turkiye</h3>
 
-- 🔭 I’m currently working on [IntelliGrade](https://intelligrade.azurewebsites.net/Base)
+- 🔭 I’m currently working on [IntelliGrade](https://intelligrade.ai)
 
 - 👨‍💻 All of my projects are available at [https://mustafaemirhanyildiz.github.io/](https://mustafaemirhanyildiz.github.io/)
 
