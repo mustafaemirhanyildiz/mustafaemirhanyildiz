@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Emirhan Yıldız</h1>
 <h3 align="center">A passionate web developer from Turkiye</h3>
 
-- 🔭 I’m currently working on [Signage Space](https://signagespace.com/)
-
 - 📝 I regularly sharing my solutions on [https://leetcode.com/mustafaemirhanyildiz/](https://leetcode.com/mustafaemirhanyildiz/)
 
 - 📫 How to reach me **mustafaemirhanyildiz@hotmail.com**
